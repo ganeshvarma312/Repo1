@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 0E6B-3510
+
+ Directory of C:\Users\ganeshvarma312\Desktop\GIT PROJECT
+
+23-04-2020  17:07    <DIR>          .
+23-04-2020  17:07    <DIR>          ..
+23-04-2020  17:07                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  72,799,940,608 bytes free
